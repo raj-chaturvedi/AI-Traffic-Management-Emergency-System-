@@ -92,4 +92,4 @@ This starter backend is designed for a college project/demo. Before making the A
 - camera authentication
 - audit logging
 
-Do not put database passwords, API keys, or server credentials into the frontend or GitHub repository.
+Do not put database passwords, API keys, or server credentials into the frontend or GitHub repository.!
